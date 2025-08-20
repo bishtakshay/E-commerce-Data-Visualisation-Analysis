@@ -7,7 +7,7 @@ This repository contains a reproducible analysis that uses **15 SQL queries exec
 ---
 
 ## Dataset used
-- <a href="https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv">Dataset</a>
+- e-Commerce (Target) Sales <a href="https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv">Dataset.</a>
 
 ---
 
