@@ -2,7 +2,7 @@
 
 **Summary**
 
-This repository contains a reproducible analysis that uses **14 SQL queries executed from Python** to explore sales performance, customer behavior, and growth trends. The project extracts, transforms, and aggregates data via SQL, then derives actionable insights and communicates results through clear visualizations and ranked metrics to support data-driven decisions.
+This repository contains a reproducible analysis that uses **15 SQL queries executed from Python** to explore sales performance, customer behavior, and growth trends. The project extracts, transforms, and aggregates data via SQL, then derives actionable insights and communicates results through clear visualizations and ranked metrics to support data-driven decisions.
 
 ---
 
@@ -71,4 +71,4 @@ The work demonstrates how to combine SQL (for efficient aggregation and joins) w
 ![Query 15 - Count the number of customers from each state.](https://github.com/bishtakshay/E-commerce-Data-Visualisation-Analysis/blob/main/Top%203%20customers%20who%20spent%20most%20in%20each%20year.png)
 
 ## 4. Conclusion
-This project demonstrates an end-to-end analytical workflow: efficient data extraction and aggregation with SQL, robust statistical and time-series analysis using Python, and clear visual communication of results through charts and tables. The 15+ queries implemented here cover discovery, segmentation, correlation, and advanced analytics (moving averages, cumulative sales, retention, and YoY growth), producing actionable insights that support product, marketing, and operations decisions.
+This project demonstrates an end-to-end analytical workflow: efficient data extraction and aggregation with SQL, robust statistical and time-series analysis using Python, and clear visual communication of results through charts and tables. The 15 queries implemented here cover discovery, segmentation, correlation, and advanced analytics (moving averages, cumulative sales, retention, and YoY growth), producing actionable insights that support product, marketing, and operations decisions.
