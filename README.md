@@ -6,18 +6,8 @@ This repository contains a reproducible analysis that uses **14 SQL queries exec
 
 ---
 
-## Table of Contents
-
-1. Project overview
-2. Dataset & schema assumptions
-3. How to run (requirements, setup, and notebooks)
-4. Query catalogue (Basic / Intermediate / Advanced) — descriptions and example SQL
-5. Visualizations & outputs
-6. Key findings & recommendations
-7. File / folder structure
-8. Reproducibility & environment
-9. Contributing
-10. License & contact
+## Dataset used
+- <a href="https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv">Dataset</a>
 
 ---
 
@@ -72,3 +62,8 @@ The work demonstrates how to combine SQL (for efficient aggregation and joins) w
 4. Calculate the retention rate of customers, defined as the percentage of customers who make another purchase within 6 months of their first purchase.
 
 5. Identify the top 3 customers who spent the most money in each year.
+
+
+## 4. Some Visualisations
+
+
